@@ -1,2 +1,2 @@
-# Code-Her-Intro-to-JavaScript
-Sample files and what-not for the Code(Her) Intro to JavaScript workshops
+# Code(Her) Introduction to JavaScript
+Sample files and what-not for the Code(Her) Introduction to JavaScript workshops
