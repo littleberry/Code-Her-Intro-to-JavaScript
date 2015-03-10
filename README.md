@@ -1,5 +1,5 @@
 # Code(Her) Introduction to JavaScript
-Sample files and what-not for the Code(Her) Introduction to JavaScript workshops
+Welcome to the Code(Her) Introduction to JavaScript GitHub repo. Sample files and what-not for the workshop are listed below. The material here is released under the MIT license.
 
 ## Example pens
 + [Hello, Code(Her)!](http://codepen.io/littleberry/pen/QwVoOq)
