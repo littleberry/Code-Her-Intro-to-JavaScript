@@ -12,9 +12,9 @@ Welcome to the Code(Her) Introduction to JavaScript GitHub repo. Sample files an
 ## All pens
 [View all the CodeHer Intro to JavaScript workshop pens](http://codepen.io/littleberry/tag/intro-to-js/)
 
-## Starter files for workshop exercise
-+ Folder login-widget contains HTML, CSS, and JS files for the basic login exercise
-+ Folder gallery-widget contains HTML, CSS, and JS files for the basic gallery exercise
+## Starter files for workshop exercises (homework)
++ Folder login-widget contains instructions, HTML, CSS, and JS files for the basic login exercise
++ Folder gallery-widget contains instructions, HTML, CSS, and JS files for the basic gallery exercise
 
 ## Wiki
 This repo has a wiki for additional material: glossary of terms encountered during the workshop, additional resources, suggestions for exercises to practice new-found JavaScript files, and the like.
