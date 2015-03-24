@@ -1,0 +1,75 @@
+/***************************************************************
+	This code was written for a JavaScript learning exercise
+	as part of the DC Web Women's March 2015 Code(Her) Workshop
+	Introduction to JavaScript series.
+	It is released under the MIT license.
+	
+	Authored by: Patricia Kruep
+	http://littleberrystudio.com
+	@littleberry (Twitter, GitHub, Codepen)
+	
+	Referenced by: login.html
+	References: Google Web Fonts, Rokkitt 400, 700
+	
+***************************************************************/
+
+@import url(http://fonts.googleapis.com/css?family=Rokkitt:400,700);
+
+body {
+	font-size: 100%;
+	font-family: 'Rokkitt', "Trebuchet MS", Georgia, serif;
+	font-weight: 400;
+	background-color: #e4dde1;
+	padding: 0;
+	margin: 0;
+}
+
+.widget {
+	width: 45em;
+	font-size: 1em;
+	text-align: left;
+	color: #ff3d7e;
+	background-color: #ffffff;
+	border: .0625em solid #1aad00;
+	padding: 1em;
+	margin: 10% auto;
+}
+
+.widget form {
+	width: 100%;
+	font-size: 1em;
+	/* padding: .5em; */
+	margin: 0;
+}
+
+.widget label {
+	font-size: 1.125em;
+	margin-right: .25em;
+}
+.widget input {
+	font-family: 'Rokkitt', "Trebuchet MS", Georgia, serif;
+	font-size: 1em;
+	border: 1px solid #ff3d7e;
+	padding: .25em .5em;
+	margin: .5em;
+}
+.widget input[type="button"] {
+	background-color: #ffd6e4;
+}
+.widget input[type="button"]:hover,
+.widget input[type="button"]:active,
+.widget input[type="button"]:focus {
+	color: #ffffff;
+	background-color: #ff3d7e;
+}
+
+.widget-title {
+	font-size: 1.5em;
+	font-weight: 700;
+	margin: 0;
+}
+
+.widget-response {
+	clear: both;
+	color: #786871;
+}

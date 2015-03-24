@@ -1,0 +1,59 @@
+/***************************************************************
+	This code was written for a JavaScript learning exercise
+	as part of the DC Web Women's March 2015 Code(Her) Workshop
+	Introduction to JavaScript series.
+	It is released under the MIT license.
+	
+	Authored by: Patricia Kruep
+	http://littleberrystudio.com
+	@littleberry (Twitter, GitHub, Codepen)
+	
+	Referenced by: login.html
+	References: Google Web Fonts, Rokkitt 400, 700
+	
+***************************************************************/
+
+@import url(http://fonts.googleapis.com/css?family=Rokkitt:400,700);
+
+body {
+	font-size: 100%;
+	font-family: 'Rokkitt', "Trebuchet MS", Georgia, serif;
+	font-weight: 400;
+	background-color: #e4dde1;
+	padding: 0;
+	margin: 0;
+}
+
+.widget {
+	width: 32em;
+	font-size: 1em;
+	text-align: left;
+	color: #ff3d7e;
+	background-color: #ffffff;
+	border: .0625em solid #1aad00;
+	padding: 1em;
+	margin: 10% auto;
+}
+
+.widget-title {
+	font-size: 1.5em;
+	font-weight: 700;
+	margin: 0;
+}
+
+.gallery {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.gallery li {
+	display: inline-block;
+	width: 9.375em;
+	margin: .5em;
+	overflow: hidden;
+}
+.gallery img {
+	width: 100%;
+	height: auto;
+}

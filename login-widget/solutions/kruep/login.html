@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--***********************************************************
+	This code was written for a JavaScript learning exercise
+	as part of the DC Web Women's March 2015 Code(Her) Workshop
+	Introduction to JavaScript series.
+	It is released under the MIT license.
+	
+	Authored by: Patricia Kruep
+	http://littleberrystudio.com
+	@littleberry (Twitter, GitHub, Codepen)
+	
+	References: login-styles.css, login.js
+	
+************************************************************-->	
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<link href="login-styles.css" rel="stylesheet" type="text/css">
+	</head>
+	
+	<body>
+		<section id="login-widget" class="widget">
+			<h1 class="widget-title">Login</h1>
+			<form id="login-form">
+				<label for="userName">User name: 
+				<input id="userName" type="text" placeholder="User name"></label>
+				<label for="userPassword">Password: 
+				<input id="userPassword" type="password" placeholder="Password"></label>
+				<input id="loginBtn" type="button" value="Login &raquo;">
+			</form>
+			<p id="response" class="widget-response"></p>
+		</section>
+		
+		<script src="login.js"></script> <!-- Loads the JavaScript source file -->
+	</body>
+</html>
