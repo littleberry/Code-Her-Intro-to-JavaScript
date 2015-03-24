@@ -4,11 +4,14 @@ Welcome to the Code(Her) Introduction to JavaScript GitHub repo. Sample files an
 ## Example pens
 + [Hello, Code(Her)!](http://codepen.io/littleberry/pen/QwVoOq)
 + [To Do List](http://codepen.io/littleberry/pen/wBYwrV)
++ [Contacts List](http://codepen.io/littleberry/pen/ogmxNj) (HTML)
++ [Contacts List](http://codepen.io/littleberry/pen/raPzrZ) (JavaScript)
 
 ## Starter pens
 + [Hello, Code(Her)!](http://codepen.io/littleberry/pen/OPoqZW)
 + [To Do List](http://codepen.io/littleberry/pen/dPgbQg)
- 
++ [Contacts List](http://codepen.io/littleberry/pen/raPzZZ)
+
 ## All pens
 [View all the CodeHer Intro to JavaScript workshop pens](http://codepen.io/littleberry/tag/intro-to-js/)
 
